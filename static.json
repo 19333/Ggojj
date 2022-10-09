@@ -1,5 +1,5 @@
 {
-    "root": "publik",
+    "root": "public",
     "clean_urls": "true",
     "Https_only": "true",
     "error_page": "error.html",
