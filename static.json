@@ -1,0 +1,9 @@
+{
+    "root": "publik",
+    "clean_urls": "true",
+    "Https_only": "true",
+    "error_page": "error.html",
+    "headers": {
+        "Access-Control-Allow-Origin": "*"
+    }
+}
